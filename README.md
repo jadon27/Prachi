@@ -9,7 +9,7 @@
     <div class="container">
         <div class="header">
             <h1>Hi 👋, I'm Prachi Jadon</h1>
-            <img src="https://github.com/haritpremrajput/haritpremrajput/blob/main/My%20gif.gif" alt="Harit's GIF">
+            <img src="https://github.com/haritpremrajput/haritpremrajput/blob/main/My%20gif.gif" alt="Prachi's GIF">
         </div>
         <div class="info">
             <h3>A software developer from India, passionate about crafting code and building innovative solutions for collaborative learning and growth.</h3>
