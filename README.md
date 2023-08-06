@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,7 +14,7 @@
         <div class="info">
             <h3>A software developer from India, passionate about crafting code and building innovative solutions for collaborative learning and growth.</h3>
             <p>🌱 I’m currently learning MERN Stack</p>
-            <p>👨‍💻 All of my projects are available at <a href="https://github.com/haritpremrajput?tab=repositories">(https://github.com/jadon27?tab=repositories)](https://github.com/jadon27?tab=repositories)">GitHub</a></p>
+            <p>👨‍💻 All of my projects are available at <a href="https://github.com/haritpremrajput?tab=repositories">https://github.com/jadon27?tab=repositories</a></p>
             <p>📫 How to reach me <a href="mailto:jadonprachi8@gmail.com">jadonprachi8@gmail.com</a></p>
             <p>📄 Know about my experiences (<a href="https://drive.google.com/file/d/1iGd985pbyiamJsZXkMmWWcFJ35FYBSjO/view?usp=sharing">Resume</a>)</p>
             <p>⚡ Fun fact - I often find myself debugging code in my dreams and waking up with a solution ready to go!</p>
