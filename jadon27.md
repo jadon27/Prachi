@@ -12,7 +12,9 @@
             <img src="https://github.com/haritpremrajput/haritpremrajput/blob/main/My%20gif.gif" alt="Prachi's GIF">
         </div>
         <div class="info">
-            <h3>A software developer from India, passionate about crafting code and building innovative solutions for collaborative learning and growth.</h3>
+            <h3>A software developer from India, passionate about crafting code and
+                building innovative solutions for collaborative learning and growth.
+            </h3>
             <p>🌱 I’m currently learning MERN Stack</p>
             <p>👨‍💻 All of my projects are available at <a href="https://github.com/haritpremrajput?tab=repositories">https://github.com/jadon27?tab=repositories</a></p>
             <p>📫 How to reach me <a href="mailto:jadonprachi8@gmail.com">jadonprachi8@gmail.com</a></p>
